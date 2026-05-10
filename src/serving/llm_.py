@@ -116,3 +116,4 @@ Summary:
     response = model.invoke(promt)
     print(type(response.content))
     return response.content[0]["text"]
+
