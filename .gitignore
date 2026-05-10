@@ -1,0 +1,5 @@
+.github/
+.trash/
+mlruns/
+__pycache__/
+lightning_logs/

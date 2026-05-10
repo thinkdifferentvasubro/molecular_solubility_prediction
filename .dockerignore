@@ -1,0 +1,6 @@
+.github/
+.trash/
+mlruns/
+tests/
+README.md
+__pycache__/
