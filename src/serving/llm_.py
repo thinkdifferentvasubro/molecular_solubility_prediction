@@ -1,7 +1,7 @@
 from langchain_google_genai import ChatGoogleGenerativeAI
 import os
 def llm(smiles, predicted_solubility):
-    the_key = os.getenv("the_key")
+    the_key = os.getenv("THE_KEY")
     if not the_key:
         raise ValueError("THE_KEY not found in environment variables")
     model = ChatGoogleGenerativeAI(
