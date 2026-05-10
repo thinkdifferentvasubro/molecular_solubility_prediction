@@ -12,7 +12,7 @@ rdkit==2025.3.3
 optuna==4.6.0
 mlflow==3.8.1
 
-langchain-google-genai==2.1.4
+langchain-google-genai==4.2.2
 
 fastapi==0.115.12
 gradio==5.27.0
