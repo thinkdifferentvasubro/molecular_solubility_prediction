@@ -11,5 +11,5 @@ langchain-google-genai==4.2.2
 matplotlib==3.10.1
 fastapi==0.115.12
 gradio==5.27.0
-pydantic==2.11.
+pydantic==2.11.3
 docker==7.1.0
