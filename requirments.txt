@@ -1,15 +1,1 @@
-numpy
-chemprop==2.2.3
-scikit-learn==1.6.1
-rdkit==2026.3.1
-lightning==2.6.1
-optuna==4.6.0
-mlflow==3.8.1
-torch==2.10.0
-langchain-google-genai==4.2.2
-matplotlib==3.10.1
-fastapi==0.115.12
-gradio==5.27.0
-pydantic==2.11.3
-docker==7.1.0
-pandas==2.2.3
+numpy==2.1.3
