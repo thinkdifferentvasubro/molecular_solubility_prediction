@@ -54,8 +54,7 @@ def start_model_testing(
 
     results = trainer.test(
         model=model,
-        dataloaders=test_loader,
-        weights_only=False
+        dataloaders=test_loader
     )
 
     metrics = results[0]
