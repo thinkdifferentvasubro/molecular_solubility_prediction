@@ -30,3 +30,6 @@ def loading_and_saving(
     )
     print(f"scaler downloaded successfully!")
     print(f"Saved at: {scaler_path}")
+
+if __name__ == "__main__":
+    loading_and_saving()
